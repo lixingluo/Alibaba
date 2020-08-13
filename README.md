@@ -28,7 +28,6 @@
 - Familiar with	ECS-related	concepts,	including	regions	and	zones, instances,	disks, snapshots,	images,	networks,	and	security groups	
 - Has	knowledge	about	the	advantages,	billing	policies,	application	scenarios, APIs	and	SDKs of	ECS	
 - Able to	deploy applications	based	on ECS products
-- Familiar with	the	usage	and	operations of	ECS	instances, disks, security groups, snapshots,	images and tags
 
 ### Auto Scaling:
 - Familiar with	the	basic	concepts related to	Auto Scaling,	including	scaling	groups,	scaling	configuration, scaling rules,	scaling	activities,	scaling	trigger tasks, scaling mode	and	freezing time
